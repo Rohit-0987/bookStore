@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Free",
+        "price":0,
+        "image":"/image.png"
+    },
+    {
+        "id":2,
+        "name":"Sport Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Free",
+        "price":0,
+        "image":"/image.png"
+    },
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Free",
+        "price":0,
+        "image":"/image.png"
+    },
+    {
+        "id":4,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Free",
+        "price":0,
+        "image":"/image.png"
+    },
+    {
+        "id":5,
+        "name":"Sport Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Sport",
+        "price":270,
+        "image":"/image.png"
+    },
+    {
+        "id":6,
+        "name":"Movie Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Movie",
+        "price":250,
+        "image":"/image.png"
+    },
+    {
+        "id":7,
+        "name":"Comics Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Entertaining",
+        "price":220,
+        "image":"/image.png"
+    },
+    {
+        "id":8,
+        "name":"Java Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"Education",
+        "price":200,
+        "image":"/image.png"
+    },
+    {
+        "id":9,
+        "name":"HTML Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"WEBD",
+        "price":150,
+        "image":"/image.png"
+    },
+    {
+        "id":10,
+        "name":"Javascript Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, et totam.",
+        "category":"backend",
+        "price":100,
+        "image":"/image.png"
+    }
+]
