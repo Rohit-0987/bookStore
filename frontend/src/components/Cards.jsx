@@ -3,11 +3,12 @@ import React from "react";
 function Cards({ item }) {
   return (
     <>
-      <div className="card bg-base-100 w-96 shadow-xl my-5">
+      <div className="card bg-base-100 w-96 shadow-xl my-5 hover:scale-105 duration-200 border">
         <figure>
           <img
             src={item.image}
             alt="Shoes"
+            className="rounded-lg mt-2"
           />
         </figure>
         <div className="card-body">
